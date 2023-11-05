@@ -6,3 +6,5 @@ Use a model named as AlexNet to classify some flowers
 ③运行model.py,是AlexNet的模型构建
 ④train.py是使用训练集对模型进行训练，并且可以看到每个epoch的训练误差，以及在验证集上的准确度
 ⑤predict.py使用一张花的图片进行类别预测
+
+参考：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master
